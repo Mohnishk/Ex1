@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex1</string>
+
+    <string name="speed">0</string>
+    <string name="action_settings">Settings</string>
+    <string name="string">This is cool</string>
+    <string name="speed_units">kmph</string>
+    <string name="battery_range">Range</string>
+    <string name="dial">SpeedDial</string>
+</resources>
